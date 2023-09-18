@@ -1,7 +1,5 @@
-# Software_Testing_and_Quality_Assurance
-Software Testing and Quality Assurance ... Black Box testing and Graph Coverage
 # Software Testing and Quality Assurance - 2023
-## Assignment 1: Black Box Testing and Graph Coverage
+## Black Box Testing and Graph Coverage
 
 **Deadline & Submission:**
 1. **Teams:** Form a team of 2-3 students from the same group or the same TA.
