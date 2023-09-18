@@ -2,11 +2,7 @@
 ## Black Box Testing and Graph Coverage
 
 **Deadline & Submission:**
-1. **Teams:** Form a team of 2-3 students from the same group or the same TA.
-2. **Upload:** Submit it on Classroom with the file named:
-   - `A1_student1ID_student2ID_student3ID_GroupName.zip`
-   - For example: `A1_20130001_20130002_S1_S2.zip`
-3. **Important:** Cheating could lead to serious consequences.
+1. **Teams:** Form a team of 2-3.
 
 ### Question 1: Black Box Testing
 JFreeChart is an open-source Java framework for chart calculation, creation, and display. This framework supports many different graphical chart types, including pie charts, bar charts, line charts, histograms, and several other chart types. We used this framework before in lab 2.
